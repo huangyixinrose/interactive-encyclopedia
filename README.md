@@ -2,10 +2,6 @@
 
 把 Claude 变成一本"刷到天亮"的百科全书——每次提问返回一张精美的 HTML 卡片，底部 5 个「继续探索」按钮，点击就跳到下一个词条，无限漫游。
 
-[![点击观看 demo 视频](./assets/cover.jpg)](https://github.com/huangyixinrose/interactive-encyclopedia/blob/main/assets/demo.mov)
-
-*↑ 点击封面打开完整 demo 视频*
-
 ## 设计原则
 
 **知识是网状的，不是线性的。**
@@ -44,6 +40,10 @@
 | 意外联系 Surprise | 想不到但点击后会"原来如此"的词条 | — |
 
 点任意一个按钮,进入下一个词条。形成无限漫游。
+
+<p align="center">
+  <a href="https://github.com/huangyixinrose/interactive-encyclopedia/blob/main/assets/demo.mov">▶ 观看 demo 演示视频</a>
+</p>
 
 ## 安装
 
